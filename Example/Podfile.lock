@@ -1,0 +1,16 @@
+PODS:
+  - LQGUnicode (1.0.0)
+
+DEPENDENCIES:
+  - LQGUnicode (from `../`)
+
+EXTERNAL SOURCES:
+  LQGUnicode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LQGUnicode: 351d6872a66258b994acb2b2b2513069b46a385a
+
+PODFILE CHECKSUM: 184d73b1f3ceabaf00e789c56c56709a03ff37fc
+
+COCOAPODS: 1.11.2
